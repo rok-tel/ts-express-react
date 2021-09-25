@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+		"target": "es2015",
+		"moduleResolution": "node",
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"preserveConstEnums": true,
+		"sourceMap": true,
+		"skipLibCheck": true,
+		"resolveJsonModule": true,
+		"allowJs": true,
+		"isolatedModules": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": false,
+    "strict": true
+  },
+	"exclude": [
+    "node_modules",
+    "build"
+  ]
+}

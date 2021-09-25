@@ -1,0 +1,15 @@
+{
+  "name": "@my-app/common",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "tsc": "tsc --build",
+    "clean": "rimraf build tsconfig.tsbuildinfo",
+    "build": "yarn clean && yarn tsc"
+  }
+}
