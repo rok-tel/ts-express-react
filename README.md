@@ -1,8 +1,8 @@
 # ts-express-react
 
-An easy and straight forward full-stack web application boilerplate using Node.js Express as backend and React as frontend.
+An easy and straight forward full-stack web application boilerplate using [Node.js](#node-js) [Express](#express) as backend and [React](#react) as frontend.
 All packages are structured as [Yarn Workspaces](#yarn-workspaces) and written in [Typescript](#typescript).
-In addition, the web application can be built as Docker image using a multi stage built supported Dockerfile.
+In addition, the web application can be built as [Docker](#docker) image using a multi stage built supported Dockerfile.
 
 - [Introduction](#introduction)
   - [Prerequisite](#prerequisite)
@@ -21,7 +21,7 @@ In addition, the web application can be built as Docker image using a multi stag
   - [React](#react)
   - [Yarn](#yarn)
   - [Yarn Workspaces](#yarn-workspaces)
-  - [Docker](#Docker)
+  - [Docker](#docker)
 
 
 ## Introduction
