@@ -87,6 +87,7 @@ Running <code>yarn server start</code> runs the web application with transpiled 
 
 ### Docker container mode
 - Notice - If Docker is not installed on your machine, you can download it from [here](https://docs.docker.com/get-docker/).
+
 ```bash
 # Enter project root directory
 cd <Your_App_Name>
